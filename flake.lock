@@ -6,11 +6,11 @@
         "systems": "systems"
       },
       "locked": {
-        "lastModified": 1790612911,
-        "narHash": "sha256-GL7nwYPXdp4gPsU7o1+LVjMS3H524D7ObJZNKT0THRk=",
+        "lastModified": 1790616705,
+        "narHash": "sha256-zFHdBdaSaTJMfFF8vNsrmgv2IAFAW3i49wNEhKCCi3M=",
         "owner": "bugeats",
         "repo": "colors",
-        "rev": "07ffa2873cdc87734a6966e81ed2c950c63582b0",
+        "rev": "5946d55dfa64c3925e3abb8263379b99465e1150",
         "type": "github"
       },
       "original": {
